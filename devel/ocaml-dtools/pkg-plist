@@ -1,0 +1,7 @@
+%%OCAML_SITELIBDIR%%/dtools/META
+%%OCAML_SITELIBDIR%%/dtools/dtools.a
+%%OCAML_SITELIBDIR%%/dtools/dtools.cma
+%%OCAML_SITELIBDIR%%/dtools/dtools.cmi
+%%OCAML_SITELIBDIR%%/dtools/dtools.cmx
+%%OCAML_SITELIBDIR%%/dtools/dtools.cmxa
+%%OCAML_SITELIBDIR%%/dtools/dtools.mli

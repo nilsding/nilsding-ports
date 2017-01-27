@@ -1,0 +1,12 @@
+%%OCAML_SITELIBDIR%%/duppy/META
+%%OCAML_SITELIBDIR%%/duppy/dllduppy_stubs.so
+%%OCAML_SITELIBDIR%%/duppy/duppy.a
+%%OCAML_SITELIBDIR%%/duppy/duppy.cma
+%%OCAML_SITELIBDIR%%/duppy/duppy.cmi
+%%OCAML_SITELIBDIR%%/duppy/duppy.cmx
+%%OCAML_SITELIBDIR%%/duppy/duppy.cmxa
+%%OCAML_SITELIBDIR%%/duppy/duppy.mli
+%%OCAML_SITELIBDIR%%/duppy/libduppy_stubs.a
+%%OCAML_SITELIBDIR%%/duppy/pa_duppy.cmi
+%%OCAML_SITELIBDIR%%/duppy/pa_duppy.cmo
+%%OCAML_SITELIBDIR%%/duppy/pa_duppy.mli
