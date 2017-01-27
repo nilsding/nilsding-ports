@@ -22,7 +22,9 @@ USE_OCAML=	yes
 SA_DIR=		${LOCALBASE}/${OCAML_SITELIBDIR}
 BUILD_DEPENDS=	${SA_DIR}/pcre/pcre.a:devel/ocaml-pcre \
 		${SA_DIR}/duppy/duppy.a:devel/ocaml-duppy \
-		${SA_DIR}/dtools/dtools.a:devel/ocaml-dtools
+		${SA_DIR}/dtools/dtools.a:devel/ocaml-dtools \
+		${SA_DIR}/mm/mm.a:devel/ocaml-mm \
+		${SA_DIR}/camomile/camomile.a:devel/ocaml-camomile
 
 pre-configure:
 	(cd ${WRKSRC} && sh ./bootstrap)
